@@ -21,6 +21,31 @@ A imagem a seguir reflete muito bem como o padrão State se comporta:
     <img src="https://refactoring.guru/images/patterns/content/state/state-pt-br.png?id=942966fd4dc52793ca2f"/>
 </div>
 
+### Estrutura
+
+1️⃣ - O Contexto armazena uma referência a um dos objetos concretos de estado e delega a eles todos os trabalhos específicos de estado. O contexto se comunica com o objeto estado através da interface do estado. O contexto expõe um setter para passar a ele um novo objeto de estado.
+
+2️⃣ - A interface do Estado declara métodos específicos a estados. Esses métodos devem fazer sentido para todos os estados concretos porque você não quer alguns dos seus estados tendo métodos inúteis que nunca irão ser chamados.
+
+3️⃣ - Os Estados Concretos fornecem suas próprias implementações para os métodos específicos de estados. Para evitar duplicação ou código parecido em múltiplos estados, você pode fornecer classes abstratas intermediárias que encapsulam alguns dos comportamentos comuns.
+
+Objetos de estado podem armazenar referências retroativas para o objeto de contexto. Através dessa referência o estado pode buscar qualquer informação desejada do objeto contexto, assim como iniciar transições de estado.
+
+4️⃣ - Ambos os estados de contexto e concretos podem configurar o próximo estado do contexto e realizar a atual transição de estado ao substituir o objeto estado ligado ao contexto.
+
+<div align="center">
+    <img src="https://refactoring.guru/images/patterns/diagrams/state/structure-pt-br.png?id=50efedb80eab6994524b"/>
+</div>
+
+### Analogia
+
+Os botões e interruptores de seu smartphone comportam-se de forma diferente dependendo do estado atual do dispositivo:
+
+- Quando o telefone está desbloqueado, apertar os botões leva eles a executar várias funções.
+- Quando o telefone está bloqueado, apertar qualquer botão leva a desbloquear a tela.
+- Quando a carga da bateria está baixa, apertar qualquer botão mostra a tela de carregamento.
+
+
 ### Vantagens ✅ e Desvantagens ❌
 
 ✅ Evita condicionais quando um objeto contexto muda de comportamento dependendo do seu estado atual; 
@@ -45,4 +70,6 @@ A imagem a seguir reflete muito bem como o padrão State se comporta:
 
 ***Os Padrões State e Strategy são irmãos gêmeos que foram separados ao nascer.***
 
-O Padrão Strategy acabou se dando muito bem no négocio dos algoritmos intercambiáveis, já o padrão State, por sua vez, tomou um caminho mais talvez mais nobre de ajudar objetos a controlarem seu comportamento através de mudanças no seu estado interno.
+O Padrão Strategy acabou se dando muito bem no négocio dos algoritmos intercambiáveis, já o padrão State, por sua vez, tomou um caminho mais talvez mais nobre de ajudar objetos a controlarem seu comportamento através de mudanças no seu estado interno. 
+
+Essa estrutura pode ser parecida com o padrão Strategy, mas há uma diferença chave. No padrão State, os estados em particular podem estar cientes de cada um e iniciar transições de um estado para outro, enquanto que estratégias quase nunca sabem sobre as outras estratégias.
