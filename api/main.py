@@ -3,7 +3,7 @@ import os
 from uuid import uuid5, NAMESPACE_DNS
 
 import dotenv
-from fastapi import FastAPI, Response
+from fastapi import FastAPI, Response, HTTPException
 
 from models.Customer import Customer
 from models.Product import Product
@@ -33,8 +33,8 @@ async def productRegister(product: Product):
 async def studentValidator(user: str, password: str, response: Response):
   if user == os.getenv('USERNAME_TEST') and password == os.getenv('PASSWORD_TEST'):
     response.status_code = 200
-    return {"info": "It's pretty good to see you again!", "continue": True}
+    return {"info": "It's pretty good to see you again!", "Authorization": True}
   else:
-    response.status_code = 401
-    return {"info": "Leave here please!", "continue": False}
-  
+    raise HTTPException(
+      status_code=401, detail=f"You don't have permission to use this! Permission Status: {False}"
+    )
