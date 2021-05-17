@@ -1,2 +1,3 @@
-# programacao-avancada
-Programação Avançada - F113115 
+# Advanced Programming
+
+Advanced Programming - F113115 Classroom
