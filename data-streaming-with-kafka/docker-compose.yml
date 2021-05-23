@@ -38,6 +38,8 @@ services:
 
   schemaregistry:
     image: confluentinc/cp-schema-registry:5.1.2
+    container_name: schemaregistry
+    hostname: schemaregistry
     restart: always
     depends_on:
       - zookeeper
@@ -53,10 +55,13 @@ services:
     container_name: apache_spark
     hostname: apache_spark
     user: root
-    env_file:
-      - .env
+    environment:
+      - SPARK_LOCAL_HOSTNAME=localhost
+      - NB_GID=100
+      - GEN_CERT=yes
+      - GRANT_SUDO=yes
     ports:
-      - "8888:8888"
+      - "8090:8888"
       - "4040-4080:4040-4080"
     volumes:
       - ./notebooks:/home/jovyan/work/notebooks/

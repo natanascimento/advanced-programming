@@ -6,7 +6,7 @@ import dotenv
 
 from kafka import KafkaProducer
 
-class OltpProducer:
+class Produce:
   
   def __init__(self, topic: str, data: dict):
     dotenv.load_dotenv(dotenv.find_dotenv())
@@ -23,7 +23,3 @@ class OltpProducer:
       return self.__producer.send(self.__topic, value=self.__data).get(timeout=60)
     except Exception as e:
       return e
-  
-  @property
-  def getResults(self):
-    return self.__producer
