@@ -3,5 +3,5 @@ zk-single-kafka-single/
 .ipynb_checkpoints/
 api-venv/
 __pycache__/
-.env
+*.env
 __init__.pyc
