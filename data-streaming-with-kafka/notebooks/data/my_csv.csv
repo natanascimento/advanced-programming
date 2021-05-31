@@ -1,0 +1,676 @@
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+65c250a9-d28f-498d-98e4-8628e790a63b,russellsandoval,Laura Hansen,F,Unit 4703 Box 9433 - DPO AA 32536,"$46,581.80",Slovenia,31/05/2021 14:38:49
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d19afc5d-45d5-437f-bbd9-f5657d24c164,brentwoodard,Kelsey Combs,F,"061 Alexandra Walk - Palmerstad, WA 82086",$183.69,Niger,31/05/2021 14:38:49
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2ee807bc-02c9-4312-b328-387a382b09b6,vickifigueroa,Rodney Morgan,M,"189 Terri Union Suite 770 - Dillonstad, NC 20978",$229.43,United States of America,31/05/2021 14:38:49
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+75d2e8c3-0298-47d8-bd97-38c5f412f085,emmamichael,James Nichols,M,"40239 Lewis Valleys Apt. 456 - Martinezville, CT 41784",$2.91,Cameroon,31/05/2021 14:38:49
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f08f7d3b-9a5f-4d09-8787-530987664c22,williamsonjessica,Jacqueline Bennett,F,Unit 7553 Box 7067 - DPO AA 30831,$305.57,Chile,31/05/2021 14:38:49
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f27a103a-abad-4e2a-bf89-bc81c87f466a,brentlawson,Kelly Parsons,F,"000 Levine Trafficway - Port Briannaburgh, ID 77428",$18.43,Cameroon,31/05/2021 14:38:50
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+cc8759ac-6ebf-493c-bd1d-ea4420ddd572,ywashington,Ashley Brown,F,"26495 Johnson Lodge - Alexandershire, TN 90341","$69,607.90",Sudan,31/05/2021 14:38:50
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+efdc7e8d-cc7b-454e-9d74-d1abcd1ffeb5,karenwhite,Mitchell Wilkins,M,"PSC 8910, Box 3511 - APO AP 78058","$2,802.45",Slovenia,31/05/2021 14:38:50
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+bd2bea97-7f96-4ec9-a3e0-db19a5108e07,zimmermanjohn,Anthony Morris,M,"5303 Mills Points - Mckeetown, TX 91296",$0.38,Taiwan,31/05/2021 14:38:50
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a6b8f062-04d9-409f-8432-ff0b22cbf1c3,cookpaula,Steven Allen,M,"387 Samuel Row - New Bobbyborough, ID 06040","$4,839.94",China,31/05/2021 14:38:51
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+91d91bbe-0f0f-4cc4-9dc0-2202b1378322,joshuadixon,Michael Kaufman,M,"1154 Thomas Meadows - New Gary, CT 46780","$29,179.33",Yemen,31/05/2021 14:38:51
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3b431163-3019-4076-988e-ab62c6fc9351,taylorchristopher,Allen Zamora,M,"49903 Clark Crest - North Jessica, VA 30962",$9.31,Israel,31/05/2021 14:38:51
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+bc14678f-bcc8-4843-86a7-7ff95d044e58,swyatt,Robin Smith,F,"952 Susan Green Apt. 524 - South Kellyside, DC 31293","$13,618.16",Cote d'Ivoire,31/05/2021 14:38:51
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+dfeef984-a70b-49ea-bfa3-b93366af0a55,ryan19,Courtney Campbell,F,"9369 Hannah Mission Apt. 573 - New Maria, DC 37538",$12.45,Guyana,31/05/2021 14:38:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d7c41306-95b4-4473-a949-ec8a26e8e82d,mwarren,Justin Landry,M,"19286 Edwin Parkways Apt. 822 - Port Rachelburgh, DE 79566",$77.39,Canada,31/05/2021 14:38:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f3fdb945-497e-4e86-9726-127414ac457d,joshua93,Emily Romero,F,"76157 Pamela Mission Apt. 358 - Camachoside, AR 13920",$18.09,Bangladesh,31/05/2021 14:38:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2f126ce5-cd28-4d9c-a461-667f9aa39675,andrewgray,Allison Gross,F,"PSC 2740, Box 4356 - APO AA 55708",$3.37,Saint Martin,31/05/2021 14:38:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9de88868-f716-441b-a533-0486149cee18,adriangarner,Richard Hamilton,M,"5345 Gary Forges - Zimmermanland, SD 30077",$458.72,Montenegro,31/05/2021 14:38:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5effced5-f246-4bfd-b095-26d717bf1352,kimberlywilliams,Sandra Dalton,F,"29276 Edward Fields Suite 713 - West Annette, NH 02126",$213.78,Tuvalu,31/05/2021 14:47:08
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d4b97cb9-5311-4797-a8f1-bdd2fe30a7e4,qsnyder,Elizabeth Pierce,F,Unit 0927 Box 4602 - DPO AA 39802,"$9,721.87",Guadeloupe,31/05/2021 14:47:08
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+88c4d425-2755-441c-82ed-e3e87d86d2bf,alexander70,Aaron Adams,M,"1152 Jacobs Hills Suite 752 - South Stacey, OR 72398","$40,001.29",Saint Lucia,31/05/2021 14:47:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+36031e98-9759-4000-bd53-50a7af62c179,eric94,Lori Allen,F,"5339 Curtis Cove Apt. 784 - North Toni, UT 60705","$46,463.29",Angola,31/05/2021 14:47:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+421fa554-b20b-49dc-bcc5-f7ff8242e21a,shawnhunt,Robert Santos,M,"42108 Christopher Walks Suite 452 - Harrisbury, TX 76407",$7.98,Lao People's Democratic Republic,31/05/2021 14:47:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+37dbb307-e5eb-489a-89cf-87753a2ea87c,maria59,Sabrina Collins,F,"8867 Karen Road Apt. 928 - Lake Joseph, AZ 45092",$392.29,Sweden,31/05/2021 14:47:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2a3f2edf-164e-4c58-b770-b1c32731b641,robert30,Cody Owen,M,USS Moore - FPO AP 25639,$3.21,Central African Republic,31/05/2021 14:47:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+826fd847-fdbd-48bc-9f31-efd93a44eab0,robertrobinson,Erin Richard,F,"88695 Rodriguez Island Apt. 120 - South Andrewtown, PA 92887",$23.90,Barbados,31/05/2021 14:47:10
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f7e339b4-e46f-4404-a4f5-1101dd94e59a,wharris,Joe Goodman,M,"36929 Parsons Via - Lake Christopher, AZ 44551","$97,246.81",Vietnam,31/05/2021 14:47:10
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+368557ce-51e7-4dee-812c-5992ab821494,westian,Sarah Allison,F,"413 Collins Fall - Thompsonview, WV 01242",$882.09,Reunion,31/05/2021 14:47:10
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1a0c486d-efe5-40fd-9f42-0127864207e2,william41,Kristi Rodriguez,F,"86703 Valerie Squares Suite 950 - Smithmouth, ME 35607","$4,976.63",British Indian Ocean Territory (Chagos Archipelago),31/05/2021 14:47:10
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+69c78559-d0ea-4730-8bb7-9f30827f040c,bramos,John Mosley,M,"8216 Olivia Mountain Suite 933 - Scottfort, MD 47961","$8,922.00",Dominica,31/05/2021 14:47:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3a4b24b5-810d-46ed-bca0-cfc0ca4fff3b,allencurtis,Caitlin Contreras,F,"6497 Mark Drive - Sandersfort, AR 08438",$93.59,Eritrea,31/05/2021 14:47:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+44ba3b82-c84c-480e-bec1-72c853afd02d,austinlaura,Thomas Williamson,M,"9227 Craig Fort - Briantown, MI 12706",$16.55,Estonia,31/05/2021 14:47:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+219e0e21-ec83-4ae8-935e-96e3d204e7cd,garciashane,Sophia Moore,F,"719 Angela Club - East Josephburgh, CO 91151",$866.99,Turks and Caicos Islands,31/05/2021 14:47:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e0b80d48-3853-449f-9c2c-9bb443b8b139,nsmith,Colleen Sanchez,F,Unit 6723 Box 0060 - DPO AA 09102,$1.64,Pakistan,31/05/2021 14:47:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+064a2c3e-db41-4535-b62c-9a82315711df,stephanie36,Kenneth Jackson,M,"PSC 4118, Box 9001 - APO AE 22810","$5,075.58",South Africa,31/05/2021 14:47:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a214e08d-683b-423f-8dbc-ea19e6750dfa,chelsea07,Cheyenne Martin,F,"539 Danielle Extensions Suite 279 - Tracibury, ME 71109",$968.64,Cyprus,31/05/2021 14:47:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+cefcecad-cc03-4d2c-ad14-4b6782964957,ariana28,Dawn Cameron,F,Unit 7460 Box 5546 - DPO AE 20741,"$1,245.38",Dominican Republic,31/05/2021 14:47:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9d72b950-815c-44a8-aa82-c39f9c27f115,jennifer98,Michael Fowler,M,"0295 Morales Crest - West Lisa, MO 09048",$60.70,Indonesia,31/05/2021 14:47:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2f3f5052-9f63-4316-8a95-f5873acf4833,rferguson,Mitchell Sanders,M,"775 Perez Divide - Russellberg, CO 72555","$48,514.67",Australia,31/05/2021 14:47:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f9e7414b-9581-4c19-8df2-92f725d68033,kaneleslie,Erin Alexander,F,"24941 Frank Walks - Kathrynmouth, SC 26469",$29.51,Portugal,31/05/2021 14:47:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0bdc12fe-f113-483e-8326-a04cd4843ec2,margaret92,Michael Hernandez,M,"6527 Tina Parks Apt. 877 - Reynoldsstad, MA 38443",$71.41,Egypt,31/05/2021 14:47:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+43b57c6a-0d6d-4dc5-8296-4b3ee22638cd,breese,Victoria Lee,F,"041 Tanner Manors Suite 469 - Port Terristad, TN 04578","$5,642.50",United States of America,31/05/2021 14:47:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b9058d80-c99b-4ebb-8898-4950ef0d0c36,mphillips,Todd Garza,M,"502 Kevin Drive - New Jillburgh, CA 76777","$3,376.40",Algeria,31/05/2021 14:47:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+50743d55-73dd-4391-9261-674da761f6a1,jonathanhughes,Jordan Cooper MD,M,"3652 Charles Common Apt. 365 - North Williamchester, NH 78856","$41,747.72",Micronesia,31/05/2021 14:47:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e0a76156-dc09-4015-8bc8-7620674f54d5,xsimmons,Riley Young II,M,"264 York Station - Sharonmouth, LA 84666","$2,952.47",Israel,31/05/2021 14:47:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+23650f96-87cb-406a-af28-d893ff3f6654,vanessagomez,Richard Ramsey,M,"0915 Kevin Ways Suite 511 - Franklinville, TX 61818","$64,622.61",Martinique,31/05/2021 14:47:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+711e0cc3-f8a5-41c1-b06e-4cfa74a1a126,cherylfox,Marcus Miranda Jr.,M,"099 Robin Lakes - South Jasonberg, MA 14010",$9.09,Norfolk Island,31/05/2021 14:47:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e414b992-1ca5-42f6-b2d9-3a657804fcd2,obrown,Todd Marks,M,"5378 Castro Radial Apt. 326 - East Brandonfurt, IN 36239","$7,160.42",Mozambique,31/05/2021 14:47:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c9256a4c-293b-4345-b4b8-57953a78b96a,moorejennifer,John Waters,M,"1645 Pam Villages - Lake Anthony, WI 52705","$5,359.72",Tokelau,31/05/2021 14:47:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+488ee235-8d5b-481d-aa76-3ef736bd2620,williamsleon,Rachel Bailey,F,"298 Marilyn Avenue - New Willie, TX 50797","$36,868.65",Netherlands,31/05/2021 14:47:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+00e122ce-e28d-4d01-b7fb-d86dd3580c0c,jillianwebb,Beth Miller,F,"1057 Webb Mission - Port Jasonside, MA 60910","$40,077.75",Nepal,31/05/2021 14:47:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3e33c5a7-347c-4d87-8697-20a9b6cd06fb,jkelly,Allison Romero,F,"929 John Groves - Kellyville, KY 04512",$27.88,Northern Mariana Islands,31/05/2021 14:47:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+336e0e7f-a7ee-4bcc-9cc9-5a4cfa419f34,susan21,Ronald Hall,M,"4131 Dale Wells Apt. 692 - Lake Alyssaport, SD 13860","$6,525.39",Israel,31/05/2021 14:47:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e6d20721-e2c9-42b0-8fe2-035fa6aea43b,christina25,Miguel Lloyd,M,"466 Mark Garden Apt. 463 - Weavertown, NC 21725",$21.84,Haiti,31/05/2021 14:47:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+047ee81c-b776-4851-ad35-f5dcad14b6ad,rachel99,Travis Gutierrez,M,"7016 Blake Viaduct - Ryanchester, OH 49098",$3.01,Cote d'Ivoire,31/05/2021 14:47:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a16ec9c7-4ad0-4f7d-8dd1-d2de5d980c5b,middletonlindsey,Joshua Strong,M,"357 Jones Corner Suite 498 - Lake Richardfurt, WI 56919",$225.14,Svalbard & Jan Mayen Islands,31/05/2021 14:47:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2db0cbf8-22e3-4100-bda6-1f141a1fbe99,townsendscott,Connie Mercado,F,"97904 Meredith Rest - Port Brittney, NY 38602","$75,039.03",Libyan Arab Jamahiriya,31/05/2021 14:47:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+358b2b6f-792b-453f-81d4-7c41994c6e59,bradleymitchell,Valerie Roman,F,"2516 Ronald Divide - Lake Cynthiastad, MN 81571",$44.41,Japan,31/05/2021 14:47:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9e74a7ba-7ccf-44e8-a145-342bb77f57e1,donnanichols,Kristen Casey,F,"5871 Atkins Prairie - Danielburgh, ME 60518","$31,573.75",Mauritania,31/05/2021 14:47:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+632d93c1-ee10-4783-9ff2-fd6c7075f770,barronbeverly,Sara Garcia,F,"429 Samantha Roads Suite 339 - Rickyville, IN 84472",$7.39,Nigeria,31/05/2021 14:47:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+394b7a31-6c3c-49f6-9f9d-855e3b0c570c,allison47,Nicholas Barrera,M,"86801 Robert Road Suite 943 - West Amy, TN 43246",$1.70,Iceland,31/05/2021 14:47:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+658da2eb-8505-4452-b9e1-305568bbe0bd,matthewsingh,Dominique Matthews,F,"3906 Navarro Estate Suite 903 - Adkinsmouth, NJ 76015",$657.38,Greece,31/05/2021 14:47:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+232637eb-f9a3-429a-8a99-b177b329e893,glee,Victor Chase,M,"581 Jamie Forks - Sydneyburgh, DC 56549",$52.54,Cyprus,31/05/2021 14:47:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+cb3d5735-84d5-44d6-9e26-a0e688ff3415,qbailey,Mrs. Martha Williams,F,"02380 Leah Divide - Howellberg, MA 46773",$81.29,Guinea,31/05/2021 14:47:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+960a2dab-4989-4b91-bd06-d69966a55192,derek60,Kristen Kennedy,F,"247 Ferguson Landing - Kellyshire, IA 86507",$304.24,Christmas Island,31/05/2021 14:47:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+17975265-b31c-4a10-9a4b-915cf69247f1,vanessaibarra,Jessica Bailey,F,"PSC 3014, Box 3560 - APO AP 42122",$4.03,Heard Island and McDonald Islands,31/05/2021 14:47:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9c5c129b-b6f8-4104-b1db-9ce85ec9f7e3,wlutz,Diana Leblanc,F,"9752 Fowler Highway - Torresburgh, AL 90752",$0.36,French Southern Territories,31/05/2021 14:47:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c7c66736-b239-407e-b37f-5084fa4d64de,johnstonshannon,Mary Walter,F,"608 Howard Wells - Richardsonland, DE 67077",$737.09,Maldives,31/05/2021 14:47:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b404344f-bcda-47ed-9e42-03ea93e2562c,pfuller,Jennifer Paul,F,"2570 Suzanne Canyon - Martinhaven, AZ 52134",$281.45,Venezuela,31/05/2021 14:47:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+dd6f76c3-131b-483a-a1a5-bef0ad487ab4,jillroth,Peter Nixon,M,"4667 Jennifer Plain Suite 307 - Peggyport, LA 17259",$42.62,Holy See (Vatican City State),31/05/2021 14:47:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+61ce5f3e-c463-4eea-9625-b50d5cf8c071,cheryl72,Cindy Collier,F,"3885 Bethany Heights - West Michael, NE 95806",$804.56,Christmas Island,31/05/2021 14:47:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+20165851-2818-4c27-aad5-3a5c5b95ffbe,calderonjustin,Robert Richardson,M,"90881 Lee Common - North Timothy, HI 57677","$1,661.35",Falkland Islands (Malvinas),31/05/2021 14:47:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+bc5600bc-d4f7-471e-a245-8006008d23e9,davidlopez,Richard Hoffman,M,"79977 Paige Forges Suite 700 - Richardsonland, WI 31875",$9.05,Georgia,31/05/2021 14:47:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+7670befb-d000-4ecd-9f7d-3f59542f1c90,fgilbert,Leah Hicks,F,"65024 Cochran Terrace Apt. 451 - Hernandezmouth, GA 72132",$91.07,Niger,31/05/2021 14:47:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b3fada07-9855-4d87-a6c5-2ed73be38a98,tjones,John Glover II,M,Unit 4479 Box 7036 - DPO AP 29638,$0.42,Papua New Guinea,31/05/2021 14:47:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+78f4b781-fa96-4e37-9e11-4f374eeed0da,teresablack,Susan Carter,F,"092 Stephanie Path Apt. 827 - East Jacobfurt, OR 35959","$51,750.84",Romania,31/05/2021 14:47:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+89c6201f-258a-44e8-a261-4b4eff669d43,jo05,Andrea Lopez,F,"99198 Ruiz Parkway - Smithberg, MI 81218","$33,748.08",Anguilla,31/05/2021 14:47:21
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+250d6f75-6608-4c70-87a8-c2b660e42ffb,carlsonpatricia,Tracey King,F,"736 Perez Manors Suite 666 - New Kara, AL 12226",$7.72,Belgium,31/05/2021 14:47:21
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+517aa636-0bf0-4739-8acd-88c171d91df5,phernandez,Toni Moody,F,USNS Rose - FPO AA 85151,$999.74,Sierra Leone,31/05/2021 14:47:21
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0b7e41cc-2589-405d-a2eb-5393ce57a2f3,douglaskim,David King,M,Unit 2413 Box 3255 - DPO AA 61854,$725.45,Kiribati,31/05/2021 14:47:21
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d5ff1e1f-3021-49a7-9745-2d99367da632,vjordan,John Cook MD,M,"005 Morgan Pike Suite 844 - North Ashley, NM 63967","$1,376.74",Kenya,31/05/2021 14:47:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+77ce60e3-bf53-43b1-bf8e-700146e4974b,melissa18,David Hunt,M,"PSC 8287, Box 9683 - APO AE 02563","$58,925.21",Cocos (Keeling) Islands,31/05/2021 14:47:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c0c33e8c-bd16-4e51-bf30-a8cf9526c209,klucas,Amy Estrada,F,"088 Michael Route - Josephborough, WY 53084","$3,347.08",Cambodia,31/05/2021 14:47:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+bb06d346-f0be-4ed9-8d2c-641fc6d7d587,laura43,Dr. James Collins DDS,M,"0888 Bowman Springs - Cruzborough, SC 20731",$636.21,Heard Island and McDonald Islands,31/05/2021 14:47:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+25771c20-16da-4e43-a98f-5d2e2d9dd79c,carrollbobby,Michael Miles,M,"0556 Christopher Manors Suite 081 - North Yvonne, ID 87359",$455.14,Honduras,31/05/2021 14:47:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+01edd19c-de8d-4e38-8d05-8cb0b90525cd,yolanda09,Amy Fitzgerald,F,"05062 Cervantes Port - North Jessica, RI 39299",$60.38,Slovakia (Slovak Republic),31/05/2021 14:47:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4f13fe38-78bf-4d68-91c4-f6e1a0a9cf19,jessica91,Eddie Sanders,M,"0686 Steven Drive - Laurastad, SC 31276",$944.76,New Caledonia,31/05/2021 14:47:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+7359515d-32d1-4c14-b864-0154de406fd6,snyderbrendan,Mark Haley,M,USS Brewer - FPO AP 36513,"$60,842.54",Congo,31/05/2021 14:47:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+698bc2f0-4c76-4149-a215-4ea6798343d4,ucarlson,Garrett Taylor,M,"30336 Keith Creek - Pattersonmouth, CO 40043",$36.77,Macedonia,31/05/2021 14:47:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+478e7a64-9856-499a-81bd-9c491da7c943,michael34,Mr. Mario Brown,M,"8130 Brown River Apt. 630 - Jessicaport, PA 29367",$22.15,Norfolk Island,31/05/2021 14:47:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+61400044-c1a3-4a21-9b99-be1045d2b24c,sjordan,Julie Lynch,F,"1062 Jennifer Trafficway - West Ricardo, VA 09414",$421.40,Bolivia,31/05/2021 14:47:24
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+48ce6338-fe1f-4a02-a464-beedc83ec964,patriciacarson,William Griffin,M,"2565 Theresa Valley Apt. 140 - Darleneshire, NY 11594",$505.62,Kiribati,31/05/2021 14:47:24
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e5d3cbd6-737d-4eb6-8c13-297575e16ac1,jacksonscott,Sarah Humphrey,F,"367 Daniel Spurs - Cummingschester, CT 70897",$951.08,Saint Kitts and Nevis,31/05/2021 14:47:24
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0d2bae8b-ec3f-4afe-bdd0-4eaa882cc1f2,smithtimothy,Brooke Kerr,F,"75937 Sanders Grove Apt. 929 - Romeroville, NE 39700","$2,269.62",Bermuda,31/05/2021 14:47:24
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d6b1e472-653c-4a73-8a11-d87f368668ed,amandagolden,Jason Rosales,M,"6299 Sims Prairie - Nathanfort, MS 91062","$20,824.50",Ukraine,31/05/2021 14:47:25
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ea2d9633-1423-4e44-b563-326afd9680ff,wangkathleen,Patricia Thomas,F,"7675 Danny Shores Suite 276 - North Tomville, TN 05906",$28.02,Belgium,31/05/2021 14:47:25
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+db4f93c4-da5a-4129-928e-1f8b29de0a51,stephanie37,Jody Gonzalez,F,"12556 White Vista Apt. 107 - Rhodeschester, GA 83913","$3,805.95",Cambodia,31/05/2021 14:47:25
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+004438c4-1f95-4f7f-80bf-9a24f1001e10,randy91,Maurice Martinez,M,"548 Hatfield Hill - Wrightstad, DE 36577","$26,120.23",San Marino,31/05/2021 14:47:25
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f2fa8072-d760-4854-b230-cc0047d0eec5,gonzalezmegan,Eric Wheeler,M,"23803 Moore Expressway - Anthonybury, ME 65260",$9.06,Korea,31/05/2021 14:47:25
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8f72b630-c9b6-4b93-9eea-bd3b0e0d46bb,rdavidson,David Fisher,M,"3586 Gonzalez Way - Jameston, NV 47672",$2.03,Cape Verde,31/05/2021 14:47:26
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+79718ae0-9e7d-4dbe-b216-2265bb3c72e5,csimmons,Jon Acevedo,M,"5935 Elijah Walks - Pittmanstad, MS 98064",$410.61,Afghanistan,31/05/2021 14:47:26
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+82203522-4241-4cb7-b716-c562b05438c0,ymartinez,Briana Burke,F,Unit 5863 Box 1883 - DPO AE 01174,$9.66,Saudi Arabia,31/05/2021 14:47:26
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+379f02f2-b136-4847-be25-eaa896a67fd2,glennchristopher,Sara Tate,F,"653 Krista Island - Emilymouth, UT 73245","$8,791.86",Sierra Leone,31/05/2021 14:47:26
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+06b13ae6-00d5-4558-a8a7-5a66b2e88f7e,ericscott,Jordan Walton,F,"26968 Avila Common - East Williambury, AK 27320",$0.24,Saint Helena,31/05/2021 14:47:27
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+15bad020-9906-415b-bab6-a3e9dbae0c42,davidroberts,Dr. Jeff Evans,M,"10033 Graham Dale - Adamsville, WV 04848",$80.03,Western Sahara,31/05/2021 14:47:27
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a04229ca-3ee9-4002-a777-ccd2d5f9e678,jamesmueller,Jeffrey Kirk,M,"397 Jonathan Crossroad - North Sean, AL 14259",$81.30,Saint Kitts and Nevis,31/05/2021 14:47:27
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4f0d6451-8132-4d61-8c29-02ca8c58c023,anthony46,Angela Simon,F,Unit 2473 Box 4047 - DPO AA 43553,$26.93,Kazakhstan,31/05/2021 14:47:27
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+abdf1af3-6327-4dd9-b0c9-f316eaea6e6e,martinbarbara,Ashley Moran,F,"31754 Robert Landing - Christyville, GA 41845","$7,159.40",Uruguay,31/05/2021 14:47:27
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5c49abf2-06c6-469a-9b3b-9c8f4df5d973,xbrown,Dr. Robert Walls DDS,M,"54336 Mary Lock - Stantonmouth, VT 78166",$364.30,Bahrain,31/05/2021 14:47:28
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a4311bc4-7d48-41a7-8ea9-2cbe06a8fd74,sethadams,Rodney Williams,M,"824 Smith Spurs - Livingstonland, MN 85211",$762.99,Ecuador,31/05/2021 14:47:28
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+197dddfd-c02e-462d-aae0-6e289b4abf0c,gordonsarah,Lauren Bennett,F,"515 Sandra Course - Brandistad, CT 09586","$6,247.95",Monaco,31/05/2021 14:47:28
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2e3320b2-2eb1-4bcc-a816-7402f7e71d44,kyle37,Richard Kelley,M,"635 Jessica Estate Apt. 132 - New Mark, CA 74001",$868.15,Kenya,31/05/2021 14:47:28
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9e0aa86a-d957-4cc1-8534-0951682ebcc6,jamie27,Monique Brooks,F,"062 Bryan Valley - South Kayla, MT 53738",$144.41,Chad,31/05/2021 14:47:29
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b7fbd74b-a7b4-4f55-b9ab-a8d9e7b79a9c,qclements,Mrs. Tina Blanchard,F,"05435 Reid Avenue - Santanamouth, ME 47493",$762.07,Aruba,31/05/2021 14:47:29
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+13ecd614-d538-4f73-86de-c9e3d5a7e9e9,williammiddleton,Colleen Frazier,F,Unit 2512 Box 8418 - DPO AE 27508,"$60,374.41",Australia,31/05/2021 14:47:29
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a4215487-03c9-498e-b8c7-46c1cd76d06b,sandovalseth,Olivia Taylor,F,"9360 Kim Ranch Apt. 630 - Marisahaven, AL 11017",$575.99,British Indian Ocean Territory (Chagos Archipelago),31/05/2021 14:47:29
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4d5d06bc-4456-46dc-a077-66623098afb8,chelsealopez,George Kent,M,"013 Jennifer Meadows - Port Katherine, WV 42242","$5,119.88",Morocco,31/05/2021 14:47:29
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b458e4a0-9024-4f65-a7fc-85c263f4456f,kellyshaw,Anthony Torres,M,"83240 Benjamin Parks - North Keithberg, PA 67685",$0.93,Tunisia,31/05/2021 14:47:30
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+50c9c2dc-8e36-4047-bafb-1521cd8bcab7,janiceramirez,Alice Green,F,"842 Gonzalez Parkways Apt. 156 - Mortonmouth, MO 64995",$469.81,Gabon,31/05/2021 14:47:30
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+775425a8-ee40-4c6b-a192-959b9a79f0ca,crivera,Mitchell Arnold,M,"84405 Jackie Coves Apt. 167 - Collinsburgh, NM 12216",$3.61,Puerto Rico,31/05/2021 14:47:30
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ec283511-7543-4691-b8ca-70e279c3759c,oberry,Shannon Mccoy,M,"8296 Carney Mills Suite 136 - Lake Amberville, LA 35973","$9,329.36",Malaysia,31/05/2021 14:47:31
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f1e733a4-91a4-44f5-90be-fa2c167bf6a0,rebecca96,Brian Rodriguez,M,"216 Roman Haven - Laurahaven, MI 35864","$82,457.03",United Kingdom,31/05/2021 14:47:31
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d3fbbeaa-6d50-4c79-a15a-294925f336cf,kirkgriffith,Nicholas Davis,M,"664 Smith Overpass Suite 733 - Boothmouth, ME 97916",$50.88,Thailand,31/05/2021 14:47:31
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4e570fbc-f7e6-4da5-a711-672097cf11af,danaunderwood,Jocelyn Phillips DDS,F,"80280 Ian Isle - Robertafurt, NE 29449","$6,949.98",Peru,31/05/2021 14:47:31
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+7e82d674-93f1-425c-9bf1-629fd9c3e727,amanda92,Justin Flynn,M,"31223 Adams Ford - Port Ryan, AK 95474","$15,062.29",Trinidad and Tobago,31/05/2021 14:47:32
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4362e2c2-5d15-4ba4-85e0-30dc09848e76,tylertownsend,Keith Gibson,M,"169 Mullen Highway - New Bradleymouth, AL 23040",$219.90,Netherlands,31/05/2021 14:47:32
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c012cd8b-ac19-4d1c-92d9-8fc17c5a303d,myerskimberly,Brian Lewis,M,"2022 John Stravenue Apt. 425 - Zamoraville, IL 89237",$574.73,Sudan,31/05/2021 14:47:32
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+450a5c95-1133-4eed-80df-37bf7918aa59,hollanddeborah,Charles Fisher,M,"420 Walker Grove - North Brittany, FL 99117",$1.64,Slovakia (Slovak Republic),31/05/2021 14:47:32
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+803671cf-c671-4ec6-9740-edf6a1888ed1,everettashley,Margaret Dennis,F,"381 Tina Meadow Suite 998 - North Matthewborough, UT 33109","$4,525.45",South Georgia and the South Sandwich Islands,31/05/2021 14:47:32
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+26cfd036-6044-4fcd-a8f8-b77fb95e83f2,diana46,Mackenzie Campbell,F,"8128 Dominguez Station Suite 436 - Elizabethland, OH 95181",$0.79,Kazakhstan,31/05/2021 14:47:33
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b2717ef5-7f16-467b-8011-2d1f4a4f9e47,john35,Jennifer Herman,F,"243 Jamie Lights Apt. 221 - South Kimberly, TN 89804","$7,679.36",Mauritius,31/05/2021 14:47:33
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4a1182f2-1521-49a8-9186-56e3ca7c9d8a,singletonlinda,Elizabeth Bush,F,"647 West Bridge Suite 224 - Romeromouth, NJ 46227",$91.02,Andorra,31/05/2021 14:47:33
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4751f502-16d7-4b63-abf1-1ff76bfc6bd6,wknight,Jill Torres,F,"669 King Falls - Wangtown, DE 66491","$98,948.25",Kenya,31/05/2021 14:47:33
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9aa2eaf1-d3ea-41af-8f12-d1bb578423a5,kking,Shannon Goodman,F,"5014 Kevin Trail - Smithport, FL 32355","$1,188.70",Lesotho,31/05/2021 14:47:33
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5a279c91-0358-46aa-91f2-8d9587056b82,amandamartinez,William Hickman,M,"193 Steve Squares - Port Curtiston, MA 95894","$80,957.91",Nauru,31/05/2021 14:47:34
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8d1b4c4b-aecc-4331-aad1-fc1e1a905161,erin29,Kaitlyn Anderson,F,"228 Michelle Trace Apt. 092 - East Darrell, CO 48338","$1,626.11",India,31/05/2021 14:47:34
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b472f560-8fbf-4045-b32e-69640e1b20ad,idixon,Kelly Fletcher,F,"09248 Sarah Gardens Suite 737 - Tammyland, MA 57398",$924.35,Dominica,31/05/2021 14:47:34
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+435da729-832c-4f71-9444-8088620b3737,brett84,Daniel Brown,M,USCGC Ross - FPO AA 99336,$498.17,Niue,31/05/2021 14:47:34
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d864d7aa-794c-46ef-924d-2bc1ea134209,kenneth87,Barbara Martin,F,"991 Brianna Pass Suite 848 - Williamschester, IL 72119",$36.10,Turkey,31/05/2021 14:47:34
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+02d2491b-ebd8-49fe-8dc3-9c9fc84a1424,smithkurt,Anne Miller,F,"128 Hancock Way Apt. 198 - Port Michelle, LA 31760",$21.26,Sri Lanka,31/05/2021 14:47:35
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0eaa5894-69f4-4f33-9ec1-f99f5028152e,fmartin,Debra Mcintosh,F,"023 Gaines Valley Suite 665 - Milesfurt, VA 73979","$26,578.23",Guernsey,31/05/2021 14:47:35
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+bfb5f30d-5c5d-43a5-884f-05febebd6a34,brandon18,Albert Lewis,M,"810 Tran Burg - Rhondafurt, KS 96023","$2,148.83",Trinidad and Tobago,31/05/2021 14:47:35
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+97d2efe6-2c76-4be1-a95a-3af178e6b559,smithmary,Douglas Meadows,M,"82433 Stevenson Mall - Stephaniefurt, NH 89361","$92,972.74",Mozambique,31/05/2021 14:47:35
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8554efc9-c0ba-41e3-8526-af7962231cc0,johnlewis,Shelley Kelley,F,"3683 Anna Run Apt. 704 - Evansstad, RI 91735",$765.96,Iran,31/05/2021 14:47:36
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d494f6d4-5ba7-482c-8c41-45b10d540ecd,vcollins,Andrea Hunt,F,"51619 Harris Ford - East Danielle, WY 26533",$26.27,Niger,31/05/2021 14:47:36
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+18ba2da8-2d73-4418-907c-89320653ff39,hooperdanielle,Robert Cantu,M,"PSC 7750, Box 3932 - APO AE 36016",$7.07,Italy,31/05/2021 14:47:36
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0475387f-3e30-4c5b-822f-6dae5fa5a231,fhill,Deborah Harris,F,USCGC Berry - FPO AE 13564,"$13,599.97",Iceland,31/05/2021 14:47:36
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a958ef04-237b-48d0-8ad9-3e280711327b,athompson,Brittany Ramirez,F,"18329 Michele Dale Apt. 097 - West Tina, ND 06965",$64.02,Bhutan,31/05/2021 14:47:36
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4b071405-e57b-407f-a82a-b577a212137b,jsmith,Felicia Miller,F,Unit 1075 Box 6659 - DPO AP 69922,$934.36,Cocos (Keeling) Islands,31/05/2021 14:47:37
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a4192213-5529-40e2-bf89-e3b46795569e,lbell,Jennifer Casey,F,"468 Bonilla Road Apt. 949 - Jacksonland, IA 01545","$8,818.13",Syrian Arab Republic,31/05/2021 14:47:37
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b008229a-15b5-4032-af31-157483011c17,heather55,Kevin Smith,M,"806 John Club - Heathershire, AK 64254",$7.74,Mayotte,31/05/2021 14:47:37
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+89a9428f-21a8-48f9-821b-690a2251a480,lisa68,Stephanie Little,F,"21627 Tyler Harbors Apt. 816 - Nelsonberg, MI 65453",$115.28,Australia,31/05/2021 14:47:37
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b371fec5-8f8d-4d7c-a8ba-de6c2cc8d1fc,nancy45,Krystal Gardner,F,"35905 Wagner Rest - Simsfurt, ND 91929","$6,243.87",Burundi,31/05/2021 14:47:38
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+907a6de7-8e0c-485b-83e9-ad0375ba205b,schmittcourtney,David Sanchez,M,"PSC 2055, Box 8810 - APO AE 27276",$60.89,Qatar,31/05/2021 14:47:38
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2aeb5b9f-8ee4-425c-8937-2f504928d466,leeterri,Robert Bradley,M,"PSC 6429, Box 8046 - APO AE 32528","$7,288.84",Suriname,31/05/2021 14:47:38
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8d4fbad2-d795-42ad-925b-70f5791bc13c,dbrooks,Michelle Solis,F,"7042 Stacey Terrace Apt. 444 - Gutierrezstad, LA 49616",$252.44,Comoros,31/05/2021 14:47:38
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0ad43918-d2d9-402a-ac57-5ff90ac1058a,powersdylan,Troy Mejia,M,"0060 David Rest - Bergville, AR 19597",$57.32,Swaziland,31/05/2021 14:47:38
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e5fef35b-286e-4b0e-bd8b-71b1cffd596d,pricegina,Sarah Swanson,F,"7962 Graham Villages Apt. 601 - Bellborough, CT 30450","$28,500.85",Hungary,31/05/2021 14:47:39
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+80664a11-479a-4813-8be5-73585e9eca2e,bradleyhurst,Anthony Martinez,M,Unit 0200 Box 5382 - DPO AP 49816,$38.87,Belarus,31/05/2021 14:47:39
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8e3f0c44-df60-4ec1-8f66-98c93ffcb28d,brandtjohn,Angela Oneal,F,"6343 Lori Lakes Suite 682 - Theresastad, IN 93815","$22,454.43",Andorra,31/05/2021 14:47:39
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+bf1da262-bc0a-4acd-a704-09fa9832001c,zaguilar,Timothy Buckley,M,"030 Roger Streets Suite 652 - South Susan, NH 22632",$84.88,Dominica,31/05/2021 14:47:39
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3cfd9470-8e8b-4c8a-9880-bf2661aefcc3,hryan,Patricia Hicks,F,"549 Nichols Island - East Victoriaton, AL 22754","$87,974.97",Thailand,31/05/2021 14:47:39
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+cee00bcd-0027-471b-ae5a-1c5888b855cd,luis87,Stacey Parker,F,"PSC 6308, Box 3955 - APO AP 84834",$45.58,Cyprus,31/05/2021 14:47:40
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4242befe-5484-46e1-a999-76eac015e02b,smithzachary,Kimberly Bauer,F,"072 Pena Court Suite 415 - West Elizabethview, CA 54235",$16.27,Tuvalu,31/05/2021 14:47:40
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f6a89477-d013-4a38-9d7c-90c0468feb47,petersonjacob,Lindsay Rojas,F,"0405 Mark Forks - South Marisa, MA 27459","$62,774.48",Pitcairn Islands,31/05/2021 14:47:40
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+968be043-13a1-4fde-90ab-bfba8f8c4a56,kingsummer,Jessica Martin,F,"PSC 0937, Box 6123 - APO AA 83991",$83.43,French Guiana,31/05/2021 14:47:40
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0e1ea8c1-e906-481f-8eac-57156a496fff,ellen15,Albert Martin,M,"348 Rocha Crossroad Suite 790 - East Rebeccaberg, MN 81107","$46,191.14",Korea,31/05/2021 14:47:41
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8bc700be-1b5f-4230-a378-3c1673ea0dd2,jason18,Cynthia Moore DDS,F,"PSC 9218, Box 2038 - APO AE 14359","$41,676.17",United States Virgin Islands,31/05/2021 14:47:41
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+43548f8a-685c-4fe0-95d4-8d2ff07673ed,vbaldwin,Andrea Hernandez,F,"876 Simpson Throughway Apt. 746 - South Mark, AL 38763","$67,484.33",Latvia,31/05/2021 14:47:41
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ba75d760-735b-41b6-bca1-8301e50cce0f,coreyvaughn,Ashley Mills,F,"80007 Wilson Drive - Johnsonville, VT 96182","$2,832.25",Nicaragua,31/05/2021 14:47:41
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+cd9b7c23-0837-4b6f-bcdf-3faee58d4c82,matthew09,Charles Nicholson,M,"3853 Walsh Trail Suite 190 - South Cynthia, VA 34985",$2.76,Brazil,31/05/2021 14:47:42
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+27d4d1b8-33ec-4492-b5bb-9320b2811094,nixonvalerie,Andrew Wang,M,"694 Adams Parkway Apt. 684 - West Meghanside, FL 73826","$89,631.42",Switzerland,31/05/2021 14:47:42
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+cbf06d03-f870-410e-8adf-ce1040713f74,vanessajohnston,Alexandria Baxter,F,Unit 6761 Box 2746 - DPO AP 13991,$854.58,Australia,31/05/2021 14:47:42
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+60154c3c-b301-4b64-bbfd-2558ce12dd0b,jolester,Brett Carlson,M,"336 Curtis Hills Suite 064 - Martinfort, DE 85383",$347.42,Canada,31/05/2021 14:47:42
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+321b4cc2-a02c-4782-8709-da1e088eb73b,gentryryan,William Saunders,M,"56458 Deborah Village Suite 429 - Jonathanfurt, AR 47334",$9.27,Honduras,31/05/2021 14:47:42
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0be435b5-a29d-44de-a1f4-80b1a43dd13e,amcbride,Deborah Jones,F,"398 Kelly Circle Apt. 618 - Lake Chad, CA 72047",$9.35,Armenia,31/05/2021 14:47:43
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+79d48c7f-5be0-492c-8017-14fdd0be6be9,swatson,Anthony Walker,M,"7955 Jenna Skyway - Lake Michaelmouth, TX 05366",$31.27,Latvia,31/05/2021 14:47:43
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+771a7e31-7ba9-478a-a033-fd840f0c8131,terrivaldez,Edward Gordon MD,M,"9976 Julie Light - Ashleymouth, WI 11550","$90,091.86",Tanzania,31/05/2021 14:47:43
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ea756817-1cea-431f-b2bd-788a8d4bacc4,mcortez,Wendy Ross,F,"80529 Timothy Cove Apt. 696 - New Amyland, AR 92068",$9.95,Kenya,31/05/2021 14:47:43
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+29ac9fbb-2a81-49d7-8e39-f7c52b5bd4ba,youngjason,Michelle Banks,F,"27232 Fernando Knolls Suite 302 - Janicechester, IA 01107","$13,109.58",Georgia,31/05/2021 14:47:43
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4cd6dd56-775d-42de-a868-9e9b21c9b3dc,norrisjoseph,Hannah Browning,F,"5850 Freeman Isle - South Marilynmouth, TX 69325","$5,884.36",American Samoa,31/05/2021 14:47:44
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4b321df4-5227-490b-8e8b-6f9a37a9a74d,bryanball,Jamie Smith,F,"1492 Brittany Course Suite 949 - South Jenniferton, AK 54201",$482.66,Isle of Man,31/05/2021 14:47:44
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8eeb7a90-4bc2-45c1-98e8-73b4f35e0144,brian16,Mariah Delgado,F,"6511 Jonathan Run Suite 920 - Hernandezmouth, VT 10596",$27.40,Saint Barthelemy,31/05/2021 14:47:44
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+595320e2-e058-48c2-ad7b-9cce463d97fc,ppierce,Ariel Reyes,F,Unit 9367 Box 6077 - DPO AA 46967,"$5,369.65",Netherlands,31/05/2021 14:47:44
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+99493199-c584-4363-97ed-e9d3f1037975,kristi78,Nicholas Johnson,M,"22075 Mark Common Suite 127 - Cherylhaven, ND 65682",$94.50,Uganda,31/05/2021 14:47:44
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+51dcc193-0510-4a91-92be-a1c7e548b1a0,irobles,Tara Rodriguez,F,"519 Amanda Stravenue Suite 907 - New Michelle, OR 35917",$204.90,Hungary,31/05/2021 14:47:45
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+fb4d849d-8b09-4a40-81a2-1db955980dad,martinchristopher,James Pace,M,"46470 Woods Green - Port Lee, OK 08925","$5,902.10",Rwanda,31/05/2021 14:47:45
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c1816ca3-403c-44b0-bb42-ad90fef1753b,rachelmiller,Dillon Thomas,M,"0556 Brandt Shoal Suite 000 - Lisaberg, SC 39211",$112.54,Equatorial Guinea,31/05/2021 14:47:45
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d7729f53-c54f-4773-86c5-420f089303ca,smithtanya,Lisa West,F,USS Frederick - FPO AP 50079,$784.22,Philippines,31/05/2021 14:48:51
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3d1ee0d5-7057-4dac-b6fd-674b02e3fc0f,rodney53,Jacob Rowe,M,"2174 Christopher Ways Apt. 479 - Crystalshire, KY 37702","$71,772.15",Kenya,31/05/2021 14:48:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+952fee38-7407-4897-959c-9683741bb251,ashleymcdaniel,Antonio Larson,M,"53183 Evans Islands Apt. 789 - North Anthonyville, ID 16154","$82,942.85",Mauritania,31/05/2021 14:48:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b72fce9b-b5bd-4432-b986-2d1308adf59b,lnelson,Michael Diaz,M,USNS Jones - FPO AA 94701,"$57,642.03",Greenland,31/05/2021 14:48:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9515010e-8408-4103-964f-ee3bd7297341,alexanderfranklin,Diane Harris,F,USS Allison - FPO AP 13238,$68.13,Montserrat,31/05/2021 14:48:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+07990f59-dee0-45dd-b98f-ce3d62bbc0c5,sandra35,Joanna Peterson,F,USNS Martinez - FPO AP 37615,"$39,124.40",Guadeloupe,31/05/2021 14:48:52
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+27869a72-5d1b-47ec-b3e2-ccd327adfafa,sarah63,Andrew Macdonald,M,"5488 Barajas Light Apt. 358 - North Georgemouth, AK 54515",$28.78,Romania,31/05/2021 14:48:53
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f14ea787-2f6c-4645-9590-7d205bbcc872,ecollins,Mr. Michael Barrett MD,M,"15556 Martin Prairie Suite 469 - Richardsonville, WI 74453","$5,703.71",Bangladesh,31/05/2021 14:48:53
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ac6ba031-9459-49de-80ed-836835e88ea0,mccannpaula,Nathan Cooper,M,"38699 Smith Lane - Lake Victorton, WI 61419","$7,380.52",Belarus,31/05/2021 14:48:53
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+414b86cc-8191-4638-8c7c-c5d80a13c1a4,alejandro96,John Chavez,M,"53238 Robert Oval - Lake Melissa, LA 57588","$37,199.72",Spain,31/05/2021 14:48:53
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8d302d63-3c64-41e4-9df9-e3e210bd8734,ryan63,Levi Donovan,M,USNS Cruz - FPO AA 13659,$1.80,Ecuador,31/05/2021 14:48:54
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5d91740d-0abe-44ab-af8c-28cbc7e9da2f,syoung,Katie Kim,F,"497 Peterson Parks Apt. 588 - Oscarshire, UT 08717",$11.68,Andorra,31/05/2021 14:48:54
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+595e2392-d795-460a-adad-10882785e97d,timothymyers,Tina Howard,F,"4635 Jessica Circle - Brandthaven, CA 57876",$9.07,Bulgaria,31/05/2021 14:48:54
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+cb176a33-04cf-453e-8360-991248fd61f3,sarah81,Daniel Lopez,M,"916 Donna Court Apt. 786 - Jonesmouth, IA 95038",$7.71,Saint Pierre and Miquelon,31/05/2021 14:48:54
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b71030ff-7c1c-4cfd-bfb4-d5116fbdab47,carla52,Justin Howard,M,"342 Robert Garden - East Christopher, SD 63683",$538.19,Pitcairn Islands,31/05/2021 14:48:54
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f44f55b9-a42c-4f48-aabb-a135722e32af,brianphelps,Sean Brown,M,"494 Nathan Fork - Valdezland, IA 11414",$53.84,Bouvet Island (Bouvetoya),31/05/2021 14:48:55
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+046e1c3a-d47a-45fc-98ef-12ce5ed9d81c,monica08,John King,M,"954 Catherine Shoals Suite 642 - Anthonyville, DC 86247","$9,729.95",Rwanda,31/05/2021 14:48:55
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1f517a66-6199-4299-9d5b-b25535e998ab,rodriguezduane,Kristina Johnson,F,"90249 Mendoza Alley - Huffmanchester, VA 12964",$925.33,Georgia,31/05/2021 14:48:55
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+43102370-aff9-42f0-935d-05b02fc0be34,bradshawsteven,Jared Hamilton,M,"820 Christian Meadows Apt. 437 - New Janetstad, MN 89898",$50.63,Tokelau,31/05/2021 14:48:55
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d275139f-0efe-443e-b866-2e1645393a3b,guzmantammy,Anthony Weaver,M,"210 David Dam Apt. 202 - Stevenhaven, TX 36226","$7,827.41",Saint Vincent and the Grenadines,31/05/2021 14:48:55
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+682662a5-7a96-47a5-8866-424622d69a01,jonathanherman,Crystal Calhoun,F,"02677 Allen Wall - Bellmouth, CA 22031","$58,091.76",United States of America,31/05/2021 14:48:56
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1289006f-b34e-4899-bd60-d5ef7ee565f7,michaelrodriguez,Maurice Bailey,M,"41479 Dillon Roads Suite 797 - Travisburgh, OH 64321",$73.04,Namibia,31/05/2021 14:48:56
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c0676c41-6da6-43b0-bd2a-42c77780d0e1,zcox,Jacob Peterson,M,"241 Brown Fields Apt. 450 - North Ryanburgh, VT 41778",$0.91,Dominica,31/05/2021 14:48:56
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+cb4a70bf-e95a-4548-a677-06a45e78247f,robinsonjodi,Joann Lucas,F,"341 Peterson Ways Apt. 348 - Patrickbury, AL 47936","$13,758.08",Belgium,31/05/2021 14:48:56
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+766ad040-7de3-4f93-ace9-b8e315b2c677,jessica05,Ronald Stephens,M,"4945 Smith Branch - Port William, WV 88676","$7,325.86",French Polynesia,31/05/2021 14:48:57
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+052c20f9-e749-40be-83cd-918bec02f177,pramsey,Kimberly Edwards,F,"2914 Anna Ways - West Elizabeth, OR 96495","$8,813.26",Cuba,31/05/2021 14:48:57
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4332def7-2a95-4932-80e8-ad158bb25633,laneaaron,Jose Robinson,M,USNV Simmons - FPO AE 40479,$53.79,Ethiopia,31/05/2021 14:48:57
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a70d25a9-2657-4c8c-9239-512181caa9fc,austintaylor,Megan Kelly,F,"717 Macdonald Ramp - Timothychester, AZ 02507","$6,811.19",Ireland,31/05/2021 14:48:57
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+549316bf-e88a-4166-8a4a-293c71db5673,emily59,Christine Stevenson,F,Unit 5206 Box 5267 - DPO AP 34268,$91.36,India,31/05/2021 14:48:57
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+fd8cfce2-b133-4c81-8229-3b87c72c5c91,teresadoyle,Martin Smith,M,USCGC Sanchez - FPO AP 29345,"$86,129.68",Cameroon,31/05/2021 14:48:58
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+38b17896-30b9-4365-bf7b-192125d8c8dc,karengeorge,Ethan Robinson,M,"178 Martin Point - Gaymouth, MS 70931","$57,918.22",Moldova,31/05/2021 14:48:58
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ac0badf3-e548-4a58-94d8-637d76aa7c45,bowenbrian,Linda Castillo,F,"926 Norris Junctions Apt. 739 - East Rachelshire, MD 82781","$1,630.92",Bhutan,31/05/2021 14:48:58
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+fdecd3ec-4183-4c6e-923a-65e5df4f8f1f,nicholas98,Jonathan Combs,M,"440 Brandon Common - West Jennifer, NJ 45774",$0.60,Pitcairn Islands,31/05/2021 14:48:58
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+987105ce-48f5-46b4-9e8c-b68677a46490,cheryl57,Jamie Perez,F,"39863 Kim Highway - Ramirezmouth, KS 31051",$76.44,Italy,31/05/2021 14:48:58
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1f024995-3c3e-4701-ad89-6a589527c27c,tmcdonald,Evan Luna,M,"8297 Darren Tunnel - Westberg, ND 96865","$30,515.33",Cape Verde,31/05/2021 14:48:59
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+70c3534b-311a-43fb-9cf9-650dcbbb90f1,hoffmankristina,Nicole Tran,F,"56633 Crystal Stravenue Apt. 297 - Romanside, MS 30148",$68.98,Sao Tome and Principe,31/05/2021 14:48:59
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c7ab0c01-3c4e-49b6-8c5c-884d5078fedf,ykennedy,Jessica Taylor,F,"935 Clark Pass - Turnerchester, ID 86794",$15.85,Jamaica,31/05/2021 14:48:59
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0c5000e8-8197-443c-bae5-4af6d08be3d2,marcushaynes,Katrina Williams,F,"0095 Davis Valleys - South Matthewtown, DE 77474",$607.55,El Salvador,31/05/2021 14:48:59
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c9e50cb7-1556-4ff0-bd42-dbd9f4b223ee,raven39,Marie Horn,F,"9843 Fowler Shores Suite 262 - Whiteshire, VT 95772",$31.70,Macao,31/05/2021 14:49:00
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c866e923-b36b-43ec-beb7-c0fb06c06d01,kyle39,Jennifer Morris,F,"8609 Smith Mall - Adamsstad, CO 95796","$72,439.56",Croatia,31/05/2021 14:49:00
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2cdbbfd1-0281-447b-9942-7a84cee585dc,samantha20,Hunter Roman,M,"8954 Dawn Bypass - Lindafort, MD 51012","$2,767.68",Korea,31/05/2021 14:49:00
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1e107bfc-2920-4068-b8bc-cdf34107bc7c,bridgetchase,Kristy Walker,F,"623 Stephanie Squares Apt. 513 - Martinezstad, HI 80308","$6,337.71",Australia,31/05/2021 14:49:00
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e99cf75b-8287-4132-be8f-6d77a326bbe1,mikeperry,Katie Patrick,F,"840 Cannon Roads - East Amandaland, GA 55278",$88.67,Niger,31/05/2021 14:49:00
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+b669a95e-5d35-43e1-80c8-67457dc489f7,angelacamacho,Amanda Scott,F,"6366 Andrew Keys Apt. 735 - West Jennaton, MN 78730",$4.05,Montenegro,31/05/2021 14:49:01
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d8932070-12b5-4450-bf93-d95b948b647a,bennettsamantha,Dwayne Huffman,M,"1235 Lewis Mountain - North Jeffrey, AR 42721","$6,102.36",Lao People's Democratic Republic,31/05/2021 14:49:01
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8c67217a-99f7-4823-9586-1b977381efcb,jessicacunningham,Gary Williams,M,"34632 Nathaniel Garden Suite 701 - Port Makaylaview, IA 34505","$65,982.93",Iraq,31/05/2021 14:49:01
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9cd0f811-cb07-4154-8388-3c41be435ebc,andersonmichael,Steven Stephens,M,Unit 5422 Box 9808 - DPO AP 06793,$49.78,Bouvet Island (Bouvetoya),31/05/2021 14:49:01
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0857256f-0e2b-426e-b48d-f28d8db0dd7e,hurleyrandall,Eric Duncan,M,"144 Laura Terrace - North Tommyshire, AZ 33796",$917.81,Trinidad and Tobago,31/05/2021 14:49:02
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a011a2b4-6e4d-489d-ad89-84bce853ef9b,kristen78,Michael Brown,M,"83679 Thomas Ferry - Dawnfurt, VT 01653",$530.32,Dominica,31/05/2021 14:49:02
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+773eef1e-7fd6-4374-b6aa-f214c7e121d1,duncanmichelle,Carol Gibbs,F,"03788 Wiggins Way - Rachelborough, SC 43831","$2,513.72",Chad,31/05/2021 14:49:02
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e328dc58-8231-4cbc-ac02-b0839284e642,xgonzalez,James Holmes,M,"1190 Clarke Walk Apt. 974 - North Dawn, NM 29580",$275.90,Saudi Arabia,31/05/2021 14:49:02
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+695427e2-0e7b-4a04-b595-712487aab253,vvasquez,Edwin Mccann,M,"37157 Ramirez Square - Wyattborough, NJ 50376",$9.60,Guam,31/05/2021 14:49:02
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e7934081-a891-4c9b-952b-bfa50869457b,wramos,Yolanda Smith,F,"6576 Taylor Forks - South Meagan, WI 00574","$65,981.09",Central African Republic,31/05/2021 14:49:03
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f33c7279-5b73-4238-9859-724164400b65,richardsjohn,Michael Strong,M,"7132 Nicholas Island Apt. 079 - West Alexandra, IN 60432",$538.73,Lebanon,31/05/2021 14:49:03
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+6a823136-d941-4b7d-b5d5-761e02f07599,cdavis,Philip White,M,"45207 Patterson Common - Suzannechester, AL 04545","$51,633.71",Samoa,31/05/2021 14:49:03
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3aeef018-1244-4b1c-b233-d4be0e65fb6f,jilljohnson,Anthony Thompson,M,"694 Amy Vista Apt. 976 - Pierceside, WY 81450",$448.13,Andorra,31/05/2021 14:49:03
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0f802dae-d0da-474c-bce6-157a68f519d5,padillashane,Donna Stone,F,"227 Burns Neck - Brentberg, NM 60849","$6,346.42",British Indian Ocean Territory (Chagos Archipelago),31/05/2021 14:49:04
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+7936a029-6430-4801-a695-ec6600411624,monicaritter,Aaron Nguyen,M,"0034 Guerrero Greens - Port Michael, KY 24872",$28.18,Pitcairn Islands,31/05/2021 14:49:04
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ec7db05d-4993-42f5-8721-103cccf99b4d,richardnguyen,Chad Gibson,M,USNS Davis - FPO AP 67983,"$3,189.55",Saint Vincent and the Grenadines,31/05/2021 14:49:04
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1d2f8158-59b3-45af-a4d8-951e7be8699c,otaylor,Kenneth Mcmillan,M,"6599 Guerrero Glens Suite 019 - South Theresa, LA 06723",$6.84,Northern Mariana Islands,31/05/2021 14:49:04
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ebc101ea-04a3-487e-bdec-b2768e679558,timothysimpson,Lindsay Gutierrez,F,"3720 Morris Alley - Myerston, NY 77406","$6,430.18",Mauritania,31/05/2021 14:49:04
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ce750340-e82a-4fb1-a8b2-eacba6975b58,howardryan,Kelly Thomas,F,"70920 Pope Mall - Lutzbury, WI 64304",$961.47,Turkmenistan,31/05/2021 14:49:05
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f3a9c934-4cfe-4027-8897-a0391bc79f30,clarkeric,Robert Booth,M,"PSC 6390, Box 1056 - APO AA 51150",$8.54,Tonga,31/05/2021 14:49:05
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0070b46f-fd0e-46cc-9795-c64f8036d72c,tracy74,James Morris,M,"5069 Kirk Drive Apt. 427 - Katherinemouth, NE 33490","$8,958.26",Kenya,31/05/2021 14:49:05
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+eb2fe1c9-849c-4913-8a6e-435b6fa0e33f,pashley,Michael Fernandez,M,"365 Bates Keys Apt. 731 - North Mallorychester, OH 39088",$2.54,Faroe Islands,31/05/2021 14:49:05
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+856d7ec5-95df-4a5d-a23d-b7c742dd08b3,ebrewer,Alyssa Owens,F,"10922 Ashley Vista Suite 736 - East Rose, AL 26376","$8,228.53",Congo,31/05/2021 14:49:05
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3d7e643b-6150-4a7e-a966-8adc16e3de4e,ybrown,Eileen Miller,F,"543 Ariel Fords Suite 954 - Robertbury, NC 21240",$345.92,Barbados,31/05/2021 14:49:06
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1ef5b2de-e9e8-4d7c-aaa2-7859d633eb00,andrewbarron,Dustin Perez,M,"175 Simpson Bypass Suite 294 - Cookbury, IA 30346",$6.05,Tajikistan,31/05/2021 14:49:06
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+16025a61-506b-48d6-9a36-3e282190bfd9,josephjeffrey,Jermaine Phillips,M,"686 Matthew Junction - Jonesberg, SD 12839","$6,095.97",Trinidad and Tobago,31/05/2021 14:49:06
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+59f4ff32-1aa6-4294-91ec-8282f46a78ec,tracy40,Christine Espinoza,F,"042 Paul Expressway - South Sarafort, OH 21994",$0.80,Equatorial Guinea,31/05/2021 14:49:06
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+67240791-eabe-402e-9130-b65f59687f93,youngaudrey,Gregory Martinez,M,"574 Brooks Lock - Camachoside, MA 25982","$9,583.18",Mauritania,31/05/2021 14:49:07
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+57245c5c-764b-4a7f-9dbd-f81d5ce05753,tsantiago,Michael Matthews,M,"668 Dillon Village Apt. 687 - East Davidton, DC 61099",$222.52,Jordan,31/05/2021 14:49:07
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1c14756c-048c-40a6-b4de-afb0a8563b19,kristenhughes,James King,M,"49226 Long Neck Suite 815 - Claudiaburgh, CO 24154","$53,363.11",Holy See (Vatican City State),31/05/2021 14:49:07
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9d5d1af3-814a-4c97-813e-b2acaecdeb2a,gallaghercaitlin,Laurie Davis,F,USCGC Rice - FPO AA 09142,"$44,544.57",Latvia,31/05/2021 14:49:07
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ba824bca-1cd3-48fb-9342-5929a2c47227,xhorton,Denise Velez,F,"935 Mcdonald Orchard - New Jamesberg, FL 24982","$8,609.75",Guam,31/05/2021 14:49:07
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+30d14f4b-a422-4885-8360-41dbb38cf4c2,hhudson,James White,M,"855 Ingram Vista - Martinmouth, HI 17101",$0.99,American Samoa,31/05/2021 14:49:08
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c624897c-eba1-4abe-9a92-24fcd143995c,zacharymcintyre,Amy Paul,F,"1696 Randolph Knoll Apt. 694 - East Darlene, GA 08545",$8.31,Maldives,31/05/2021 14:49:08
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+06550918-7337-4a3b-b691-89d1584f11e6,michaelrobertson,Charles Roberts,M,"95155 Clark Plain Apt. 719 - Angelachester, HI 54541",$0.66,Peru,31/05/2021 14:49:08
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+842dc37d-45c0-4104-92b2-1d7bfdb24513,thomaskennedy,David Jones,M,"771 Aaron Summit Suite 212 - Williamsburgh, LA 78754",$49.02,Isle of Man,31/05/2021 14:49:08
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a77b87c9-a361-4620-9de5-eb36ebecf983,ismith,Gabrielle Greer,F,"78325 Simmons Pike - West Angela, MT 06975",$706.56,Yemen,31/05/2021 14:49:08
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ebd30e56-3433-4367-824e-64ef94ec627d,markramirez,Paul Hughes,M,"547 Rangel Trail Apt. 611 - Hernandezland, MT 03015",$64.22,United States of America,31/05/2021 14:49:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5b4bec6b-e257-4ba8-95f1-396c504637da,matthewmartin,Angel Williams,F,"094 Wells Stream Suite 410 - Port Danielstad, PA 21348",$2.03,Saint Barthelemy,31/05/2021 14:49:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+429a7670-5480-4392-be85-2a290594cf48,bonniesmith,Kirsten Parks,F,USCGC Miller - FPO AA 81012,$843.56,Austria,31/05/2021 14:49:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+452dcecd-9043-42d3-bf05-defce165d26e,valeriemitchell,Dan Byrd,M,"99960 Thomas Flat Suite 139 - New Ricardo, MT 74796",$6.99,Afghanistan,31/05/2021 14:49:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+63bace9a-f064-48ee-b11c-76b8b1042a06,pamela29,Nicholas Wall,M,"544 Kelley Common Suite 147 - Lambertberg, KY 77043",$6.83,British Indian Ocean Territory (Chagos Archipelago),31/05/2021 14:49:09
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+fa55ceb6-1339-4cdc-a1a9-c6b313c9794b,sabrina20,Krista Wyatt,F,"8583 Johnson Prairie Apt. 522 - Port Tonyamouth, OR 05013","$50,575.33",Guyana,31/05/2021 14:49:10
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+eee21e98-adac-43de-ad53-d2187157d761,foxkari,Candice Richardson,F,"14032 Mark Villages - West Edwin, NE 69840",$6.03,Italy,31/05/2021 14:49:10
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3516e281-523b-4d7c-94c8-3e04938aaa95,nataliedixon,Patrick Copeland,M,"349 Leah Coves Apt. 702 - New Kimberlyview, MD 91984","$41,258.65",Gabon,31/05/2021 14:49:10
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1128f7be-5121-44a8-86ee-689df390c89c,david85,James Brown,M,"08552 Williams Drives Suite 606 - Moorebury, NM 86730","$77,029.39",Australia,31/05/2021 14:49:10
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2de009d7-c858-4b48-9d6a-6f207c5c6f53,jameslopez,Paul Garcia,M,"3193 Susan Courts Apt. 505 - Joshuaport, ID 18155","$3,116.19",Indonesia,31/05/2021 14:49:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+722185b9-16df-4715-a6e4-e05c495b1af7,kevinortiz,Rhonda Bruce,F,"557 David Greens - Greenstad, MI 85363","$77,285.26",Bhutan,31/05/2021 14:49:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+1129c85e-81b3-4107-9895-fbb7c0f102ca,mullinsstephanie,Kaitlin Knight,F,"97255 Duarte Valley - North Amandaton, AR 01722","$5,301.65",Tuvalu,31/05/2021 14:49:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+6c159dc2-889d-4738-9f6e-2905c648378a,anelson,Tonya Smith,F,"PSC 9753, Box 9471 - APO AA 03939",$17.85,Turkey,31/05/2021 14:49:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+e6d59a15-e78b-4c5d-987e-24dc369fbaeb,newmangary,John Shaw,M,"80738 Cunningham Cliffs - West Anthonyburgh, RI 99415",$84.03,Seychelles,31/05/2021 14:49:11
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+21526d09-226a-4ce1-a468-a65fb503ddb7,xbarnes,Kristopher Knight,M,"PSC 8904, Box 6085 - APO AA 51272","$2,705.96",Canada,31/05/2021 14:49:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+26f03e32-d978-4d85-aa96-69fa0e5ccff6,djones,Gary Underwood,M,"9546 Nicole Expressway - Brayberg, MA 05844",$224.96,Nigeria,31/05/2021 14:49:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+776b0ea7-ac7b-4278-84a2-6b77ff366a3e,acobb,Jeffrey Payne,M,"275 Lisa Expressway Apt. 255 - Martinfort, NY 21587",$5.77,Cote d'Ivoire,31/05/2021 14:49:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+393c475f-d57f-4068-92b0-f2233432c338,ishelton,Justin Garrison,M,"141 Elizabeth Greens - New Ericshire, VA 89802","$2,938.50",Mozambique,31/05/2021 14:49:12
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0a80d2bd-463e-4916-9aac-6b69db760c7b,brandonritter,Richard Smith,M,"51836 Larry Circle - East Adrianland, AK 37776","$3,621.41",Niue,31/05/2021 14:49:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+27922e99-b947-4abf-ba0b-17eb5e5848a7,velazquezronnie,Chase Thomas,M,"1472 Kemp Village - Debraview, OK 72610","$1,420.86",Czech Republic,31/05/2021 14:49:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+01b80d61-23fb-4336-9862-321e57bc9370,wellsbrandy,Jonathan Esparza II,M,"41191 Schroeder View Apt. 790 - New Jeffreyside, WA 29510",$378.64,Uruguay,31/05/2021 14:49:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a69f452c-2085-48ee-a6fe-c18c11987741,mccluretony,Amanda Peterson,F,"92151 Jason Harbor - Nicolechester, KY 27056",$22.76,Cape Verde,31/05/2021 14:49:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4a596c47-e1d8-462b-a123-4722ab5e5c8f,sharonstone,Natalie Buchanan,F,"254 Curtis Roads - North Kimberly, NY 77334","$57,494.30",Colombia,31/05/2021 14:49:13
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3bab5b94-91e7-4976-ac79-19197ccf359b,eharris,Megan Smith,F,"6499 Erica Estate Apt. 061 - Wheelerbury, GA 24222","$5,506.57",Australia,31/05/2021 14:49:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3a2b05b1-9134-4942-8c3d-79b9caa5de64,dhenry,Wendy Matthews,F,Unit 4396 Box 6786 - DPO AP 83233,"$76,523.00",Rwanda,31/05/2021 14:49:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c49614e3-4208-4e84-bb75-69f5c4e19008,stephanielee,Mrs. Jessica Lee DVM,F,"692 Kristen Ranch - Smithville, NM 25411",$62.85,South Africa,31/05/2021 14:49:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c63682e5-eed5-4f13-80a6-bd9f40330a11,imartin,Yesenia Waters,F,Unit 1218 Box 2451 - DPO AP 58168,"$11,931.41",Greece,31/05/2021 14:49:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+783423bc-ed5c-4287-9bcf-f39451f4b374,xbarnett,Brian Hill,M,"55371 Reid Branch - Burnstown, MN 17923",$72.98,Zambia,31/05/2021 14:49:14
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+378a9bc9-0561-4075-844e-a984d80a28e6,mjones,Scott Powell,M,"981 Hammond Manor Apt. 871 - Wallsshire, KS 71833","$34,431.67",Netherlands,31/05/2021 14:49:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f388c8bc-6d29-4b1e-ae87-f4d3dbf88a0c,monica35,Dustin Oliver MD,M,"480 Mary Inlet Apt. 946 - Lake Molly, TX 35318","$9,478.16",Thailand,31/05/2021 14:49:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5b3c95b0-282b-4c78-900f-4faa03a67e3b,pjohnson,Matthew Alvarez,M,"08162 Villarreal Cliffs - Davismouth, DE 01391",$266.72,China,31/05/2021 14:49:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+99533c27-2c56-4cf6-bbc6-ba8718062b14,mlloyd,Marcus Joyce,M,"65642 Smith Wells Apt. 281 - Lake Melissaside, MS 33744",$67.39,Liberia,31/05/2021 14:49:15
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0dc743e9-b648-4545-a38a-7a0acecb66b7,taraanderson,Jessica Morse,F,"864 Love Fork - Aaronside, ND 76130",$871.51,Malawi,31/05/2021 14:49:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5ffeb1b3-a932-4729-bea2-c58c46dbf674,tgarrison,Lauren Craig,F,USS Harrison - FPO AE 36543,$6.91,Rwanda,31/05/2021 14:49:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+19e968ae-e476-46fd-a756-c19996fd7918,vcastillo,Angela Mcfarland,F,"1849 Smith Garden - Lewisfurt, NJ 46157","$36,212.25",Ghana,31/05/2021 14:49:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c761773c-b3d6-4215-a907-421551255f33,gwendolyn97,Lisa Hutchinson,F,"388 Jeffery Pines Suite 572 - Port Roytown, MN 45844",$84.09,United Kingdom,31/05/2021 14:49:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8476940a-97dd-40aa-8855-e5291fb43150,blittle,Timothy Cuevas,M,"123 Michael Burgs - Smithshire, MD 37040","$8,131.83",Armenia,31/05/2021 14:49:16
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+562322c6-c2ac-4593-9074-21a5a38b497a,heather58,Jamie Dunn,F,"1326 Dakota Road Suite 093 - Christyfurt, SD 25861","$3,723.82",Lebanon,31/05/2021 14:49:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+236d57b3-2620-4d56-9f6d-1d689d728d92,kjohnson,Alexis Cannon,F,USNV Rodriguez - FPO AA 35631,$3.80,Solomon Islands,31/05/2021 14:49:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c1102dcb-fcb5-4e0d-91af-a7183637a228,michael07,Lisa Morgan,F,"2346 Anne Hill - Browntown, MN 13049","$78,003.59",Mauritius,31/05/2021 14:49:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a210401b-dee2-45d0-8bde-bd71dced26fe,michael97,Robert Chandler,M,"36734 Ballard Manors Suite 940 - Langberg, DE 55371","$96,674.44",Norway,31/05/2021 14:49:17
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+a166dee8-4510-4628-a25b-2b4ba598f03d,anna87,Sarah Vega,F,"2492 Golden Passage - West Malik, IN 35022","$50,111.08",Micronesia,31/05/2021 14:49:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0a4332e8-835b-4d71-956d-fe0d2637647e,espinozanancy,Timothy Brown,M,"PSC 7609, Box 2915 - APO AP 20685","$9,838.39",Samoa,31/05/2021 14:49:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+4c00a3a1-0753-4ac3-b668-866bc1d86a0d,rochalaura,Heather Long,F,"49863 Joann Alley - Meganfort, CT 85734","$69,700.52",Belarus,31/05/2021 14:49:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5748adbd-64f3-4eef-b9e0-1441f560fd3d,mmitchell,Tami Logan,F,"4308 Adam Mews - North Genefort, RI 44594",$14.91,Iraq,31/05/2021 14:49:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+3d004652-e53d-4f45-aded-2ed13105d982,emily21,Patrick Hughes,M,"99015 Gary Bridge Suite 890 - Johnsonburgh, RI 24197",$7.78,Lebanon,31/05/2021 14:49:18
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+97ee2e83-7264-4179-91e0-9ff871c6224c,kevin41,Susan Coleman,F,"5828 Arthur Plains - South Janice, AR 14387",$634.00,France,31/05/2021 14:49:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+589fb053-76cd-4698-86d0-c385b9d901e7,wilsonadam,Willie Franco,M,"334 Lisa Crescent Suite 600 - Hansenmouth, NV 61976","$61,861.97",Gambia,31/05/2021 14:49:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f94cf939-0316-4189-80fe-bd12f095732f,tmurphy,Susan Huang,F,"86907 Baker Track - Port Cassandra, SD 60368",$6.50,Maldives,31/05/2021 14:49:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d1b616d3-257e-4fb2-bd23-c9ef404a7aab,jennifermoore,Catherine Smith,F,"797 Sheila Springs - Cranetown, NY 23460",$37.70,Guatemala,31/05/2021 14:49:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+8ed39251-2287-4adb-a790-72fd23d59e01,yboyd,Katherine Matthews,F,"90277 Martin Fork Apt. 594 - Susanstad, NH 12798","$9,783.12",Suriname,31/05/2021 14:49:19
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0c8e5fa7-d7a3-4909-807b-543e198f1fbd,collinsamanda,Katie Hardy,F,"50605 Wilcox Camp - Lake Joshua, NH 74824","$5,218.97",Burundi,31/05/2021 14:49:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+53ba670d-5fad-495b-850e-72fcfa4b7112,pjones,Sherri Jones,F,USNV Burton - FPO AP 99040,$63.82,San Marino,31/05/2021 14:49:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c8942909-ad57-4624-a452-8e8a2cd39f44,ritterdestiny,Marilyn Parks,F,"46429 Garcia Pines - Clarkeburgh, SC 69947",$97.78,Morocco,31/05/2021 14:49:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+aac9597a-0d28-4802-8e3f-5def802e267a,amandaanderson,Briana Frost,F,"19963 Dana Courts - Karenchester, AR 04899",$197.17,Oman,31/05/2021 14:49:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+6b330930-c6dc-4df1-b8a2-c50814b2d519,justinlang,Steven Carpenter,M,"92629 Tyler Trafficway - Port Douglasland, AK 89598",$9.36,Fiji,31/05/2021 14:49:20
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+6708b49d-9f43-46fd-814e-83bd9eb579b1,jenningsmichael,Ryan Calderon,M,"3075 Richards Stream - South Matthewmouth, KY 76791","$7,787.30",Malta,31/05/2021 14:49:21
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+ab8b2c95-b126-4e4d-8ddf-5cd16f3a01bf,ashleyking,Elizabeth Williams,F,"25598 Lozano Drive Suite 053 - Port Jimmyhaven, VA 73207",$83.53,Gambia,31/05/2021 14:49:21
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+f89c30ad-fe79-45d4-bec1-7b3fedc4c0cc,klittle,Michelle Robinson,F,"PSC 5238, Box 6912 - APO AA 38447",$818.68,Martinique,31/05/2021 14:49:21
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c0ba293b-4a34-4983-9d96-b64d57fe659a,benjamin37,Rachel Reed,F,"263 Virginia Estate Suite 834 - Dannychester, WV 03591","$8,683.91",Holy See (Vatican City State),31/05/2021 14:49:21
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0bbd008f-f8f1-43d3-b179-a06009f1ef44,aperez,Kathryn Hill,F,"10098 Bailey Lights - New Rebekahfurt, AR 10758",$0.07,Libyan Arab Jamahiriya,31/05/2021 14:49:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+2fddcfaf-bad5-411d-832c-b9e38015302f,grose,John Davis,M,"545 Green Unions Apt. 025 - North Eddie, NM 31946","$89,505.66",Norfolk Island,31/05/2021 14:49:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+c7159bb5-5a24-4ef9-830d-1db5450dd0f1,lcolon,Dakota Smith,M,"PSC 9062, Box 6050 - APO AA 14741",$801.81,Bahamas,31/05/2021 14:49:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+0aeda7b5-aa2b-439a-bd14-e1350978505b,emilymorgan,Lindsey Kim,F,"4918 Booker Loaf Apt. 287 - Port Rubenton, TN 53713","$8,623.99",Macedonia,31/05/2021 14:49:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+00cecedc-ded5-43ed-aa63-7ce55f9f4569,christina31,Alicia Thomas,F,"34286 Miller Fords Suite 317 - Reyesville, NV 24347",$74.24,Yemen,31/05/2021 14:49:22
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+9f51302c-aa1e-42be-8969-7c45bd3b0b59,xwong,Carla Sanchez,F,Unit 7765 Box 0269 - DPO AA 67708,$764.76,Somalia,31/05/2021 14:49:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+5c940e0e-4214-4a07-8548-2be1b5cefb70,jennifersmith,Kimberly Walls DDS,F,"7381 Tanya Wall Suite 003 - New Zacharymouth, NH 43683",$68.87,Malaysia,31/05/2021 14:49:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+d8f568e9-fa63-47b7-8970-cf428a7c6ed3,luis10,Mitchell Morales,M,"997 Pierce Haven - Scottburgh, TX 42778",$9.17,Grenada,31/05/2021 14:49:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+aea7e594-ca7c-45c7-bbd4-372bccfcbc5b,wilkersonjames,Kimberly Warren,F,"9836 Ariel Lake - South Joshua, SD 33739","$55,769.16",Mauritania,31/05/2021 14:49:23
+customer_id,customer_username,customer_name,customer_gender,customer_address,customer_purchase_price,customer_country,createdAt
+50c28ff9-8d23-4fe3-9716-b1e5ac277752,hamiltondavid,Justin Jones,M,"53486 Castro Track - New Colinhaven, WA 75538",$47.53,Solomon Islands,31/05/2021 14:49:23
