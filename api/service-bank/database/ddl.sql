@@ -1,3 +1,3 @@
-CREATE DATABASE "service-bank";
+CREATE DATABASE "service_bank";
 
-CREATE SCHEMA "digital-account";
+CREATE SCHEMA "digital_account";
