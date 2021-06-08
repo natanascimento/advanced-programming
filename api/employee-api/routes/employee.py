@@ -9,8 +9,8 @@ from fastapi.encoders import jsonable_encoder
 
 from typing import List
 
-from models.Employee import EmployeeModel, UpdateEmployeeModel
-from database.connection import Connection
+from ..models.Employee import EmployeeModel, UpdateEmployeeModel
+from ..database.connection import Connection
 
 router = APIRouter(
     prefix="/v1/employee",
