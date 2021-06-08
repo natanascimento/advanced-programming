@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from routes import employee
+from .routes import employee
 
 app = FastAPI()
 
