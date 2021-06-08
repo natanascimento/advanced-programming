@@ -1,7 +1,8 @@
 kafka-env/
 zk-single-kafka-single/
 .ipynb_checkpoints/
-api-venv/
+*-venv/
 __pycache__/
 *.env
 __init__.pyc
+node_modules/
